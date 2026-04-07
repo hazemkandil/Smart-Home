@@ -1,6 +1,6 @@
 # 🏠 Smart Home – Embedded Security & Automation System
 
-> A two-MCU embedded Smart Home system built from scratch in bare-metal C for ATmega32 and ATmega16, featuring keypad authentication, servo-controlled door lock, temperature monitoring, and ambient light control. Simulated in Proteus.
+> A two-MCU embedded Smart Home system built from scratch in bare-metal C for 2 ATmega32 microcontrollers, featuring keypad authentication, servo-controlled door lock, temperature monitoring, and ambient light control. Simulated in Proteus.
 
 ---
 
@@ -28,7 +28,7 @@ This project implements a Smart Home security and automation system split across
 | Node | MCU | Role |
 |---|---|---|
 | **Smart_Home1** | ATmega32 | Keypad input & user feedback (Transmitter / Input MCU) |
-| **Smart_Home2** | ATmega16 | Authentication logic, LCD display & home automation (Controller / Display MCU) |
+| **Smart_Home2** | ATmega32 | Authentication logic, LCD display & home automation (Controller / Display MCU) |
 
 The system supports:
 - **Secure door entry** via 4-digit username + 4-digit password authentication
@@ -44,7 +44,7 @@ The system supports:
 ```
 ┌─────────────────────────────────┐        USART (9600 bps, 8N1)        ┌──────────────────────────────────────┐
 │         Smart_Home1              │ ◄──────────────────────────────────► │          Smart_Home2                  │
-│         ATmega32                 │                                       │          ATmega16                     │
+│         ATmega32                 │                                       │          ATmega32                     │
 │                                  │                                       │                                       │
 │  ┌──────────┐  ┌──────────────┐  │                                       │  ┌────────┐  ┌───────────────────┐   │
 │  │  4×3     │  │  7-Segment / │  │                                       │  │  LCD   │  │  Servo Motor PWM  │   │
@@ -78,7 +78,7 @@ The system supports:
 | USART TX | PD1 | Serial data out to Smart_Home2 |
 | USART RX | PD0 | Control token input from Smart_Home2 |
 
-### Smart_Home2 (ATmega16 – Control MCU)
+### Smart_Home2 (ATmega32 – Control MCU)
 
 | Component | Connection | Description |
 |---|---|---|
@@ -206,7 +206,7 @@ Smart Home/
 │   │   ├── Bit_Math.h        # Bit manipulation macros
 │   │   └── *_Registers.h     # Peripheral register maps
 │   │
-│   ├── Smart_Home2/          # ATmega16 – Display / Control MCU
+│   ├── Smart_Home2/          # ATmega32 – Display / Control MCU
 │   │   ├── main.c            # Authentication, door control, sensor monitoring
 │   │   ├── APP_Program.c     # Credential display helpers & comparison
 │   │   ├── APP_Interface.h   # Credential config (DEFAULT_USER, DEFAULT_PASS …)
@@ -283,8 +283,8 @@ avr-gcc -mmcu=atmega32 -DF_CPU=16000000UL -O1 -Wall \
         *.c -o Smart_Home1.elf
 avr-objcopy -O ihex Smart_Home1.elf Smart_Home1.hex
 
-# Smart_Home2 (ATmega16, 16 MHz)
-avr-gcc -mmcu=atmega16 -DF_CPU=16000000UL -O1 -Wall \
+# Smart_Home2 (ATmega32, 16 MHz)
+avr-gcc -mmcu=atmega32 -DF_CPU=16000000UL -O1 -Wall \
         *.c -o Smart_Home2.elf
 avr-objcopy -O ihex Smart_Home2.elf Smart_Home2.hex
 ```
@@ -295,7 +295,7 @@ avr-objcopy -O ihex Smart_Home2.elf Smart_Home2.hex
 # ATmega32
 avrdude -c usbasp -p m32 -U flash:w:Smart_Home1.hex
 
-# ATmega16
+# ATmega32
 avrdude -c usbasp -p m16 -U flash:w:Smart_Home2.hex
 ```
 
