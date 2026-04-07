@@ -1,0 +1,184 @@
+10:10:10 **** Clean-only build of configuration Debug for project Smart_Home1 ****
+make clean 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[E:/IMT_SDK_Win_64 - Copy/jre/bin/server;E:/IMT_SDK_Win_64 - Copy/jre/bin;E:/IMT_SDK_Win_64 - Copy/jre/lib/amd64;C:\Program Files\ImageMagick-7.1.2-Q16-HDRI;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\dotnet\;C:\Users\hazem\AppData\Local\Programs\Python\Python313;C:\Users\hazem\AppData\Local\Programs\Python\Python313\Scripts;C:\Program Files\Git\cmd;C:\MAIN\Programs\Allure_Report\allure-2.34.1\bin;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\MAIN\mingw64\bin;C:\Program Files\MATLAB\R2025b\bin;C:\Program Files\Go\bin;C:\Users\hazem\AppData\Local\Programs\Python\Launcher\;C:\Users\hazem\AppData\Local\Microsoft\WindowsApps;C:\Users\hazem\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2025.1.1.1\bin;;C:\Users\hazem\AppData\Roaming\npm;C:\Users\hazem\AppData\Local\Programs\Ollama;C:\Program Files\FFmpeg\ffmpeg-master-latest-win64-gpl\bin;C:\Users\hazem\AppData\Local\Programs\Antigravity\bin;C:\Users\hazem\go\bin;E:\IMT_SDK_Win_64 - Copy]
+10:10:10 **** Build of configuration Debug for project Smart_Home1 ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[E:/IMT_SDK_Win_64 - Copy/jre/bin/server;E:/IMT_SDK_Win_64 - Copy/jre/bin;E:/IMT_SDK_Win_64 - Copy/jre/lib/amd64;C:\Program Files\ImageMagick-7.1.2-Q16-HDRI;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\dotnet\;C:\Users\hazem\AppData\Local\Programs\Python\Python313;C:\Users\hazem\AppData\Local\Programs\Python\Python313\Scripts;C:\Program Files\Git\cmd;C:\MAIN\Programs\Allure_Report\allure-2.34.1\bin;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\MAIN\mingw64\bin;C:\Program Files\MATLAB\R2025b\bin;C:\Program Files\Go\bin;C:\Users\hazem\AppData\Local\Programs\Python\Launcher\;C:\Users\hazem\AppData\Local\Microsoft\WindowsApps;C:\Users\hazem\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2025.1.1.1\bin;;C:\Users\hazem\AppData\Roaming\npm;C:\Users\hazem\AppData\Local\Programs\Ollama;C:\Program Files\FFmpeg\ffmpeg-master-latest-win64-gpl\bin;C:\Users\hazem\AppData\Local\Programs\Antigravity\bin;C:\Users\hazem\go\bin;E:\IMT_SDK_Win_64 - Copy]
+10:10:11 **** Clean-only build of configuration Debug for project Smart_Home2 ****
+make clean 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[E:/IMT_SDK_Win_64 - Copy/jre/bin/server;E:/IMT_SDK_Win_64 - Copy/jre/bin;E:/IMT_SDK_Win_64 - Copy/jre/lib/amd64;C:\Program Files\ImageMagick-7.1.2-Q16-HDRI;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\dotnet\;C:\Users\hazem\AppData\Local\Programs\Python\Python313;C:\Users\hazem\AppData\Local\Programs\Python\Python313\Scripts;C:\Program Files\Git\cmd;C:\MAIN\Programs\Allure_Report\allure-2.34.1\bin;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\MAIN\mingw64\bin;C:\Program Files\MATLAB\R2025b\bin;C:\Program Files\Go\bin;C:\Users\hazem\AppData\Local\Programs\Python\Launcher\;C:\Users\hazem\AppData\Local\Microsoft\WindowsApps;C:\Users\hazem\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2025.1.1.1\bin;;C:\Users\hazem\AppData\Roaming\npm;C:\Users\hazem\AppData\Local\Programs\Ollama;C:\Program Files\FFmpeg\ffmpeg-master-latest-win64-gpl\bin;C:\Users\hazem\AppData\Local\Programs\Antigravity\bin;C:\Users\hazem\go\bin;E:\IMT_SDK_Win_64 - Copy]
+10:10:11 **** Build of configuration Debug for project Smart_Home2 ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[E:/IMT_SDK_Win_64 - Copy/jre/bin/server;E:/IMT_SDK_Win_64 - Copy/jre/bin;E:/IMT_SDK_Win_64 - Copy/jre/lib/amd64;C:\Program Files\ImageMagick-7.1.2-Q16-HDRI;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\dotnet\;C:\Users\hazem\AppData\Local\Programs\Python\Python313;C:\Users\hazem\AppData\Local\Programs\Python\Python313\Scripts;C:\Program Files\Git\cmd;C:\MAIN\Programs\Allure_Report\allure-2.34.1\bin;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\MAIN\mingw64\bin;C:\Program Files\MATLAB\R2025b\bin;C:\Program Files\Go\bin;C:\Users\hazem\AppData\Local\Programs\Python\Launcher\;C:\Users\hazem\AppData\Local\Microsoft\WindowsApps;C:\Users\hazem\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2025.1.1.1\bin;;C:\Users\hazem\AppData\Roaming\npm;C:\Users\hazem\AppData\Local\Programs\Ollama;C:\Program Files\FFmpeg\ffmpeg-master-latest-win64-gpl\bin;C:\Users\hazem\AppData\Local\Programs\Antigravity\bin;C:\Users\hazem\go\bin;E:\IMT_SDK_Win_64 - Copy]
+10:15:55 **** Incremental Build of configuration Debug for project Smart_Home1 ****
+make all 
+Building file: ../.metadata/.plugins/org.eclipse.cdt.make.core/specs.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF".metadata/.plugins/org.eclipse.cdt.make.core/specs.d" -MT".metadata/.plugins/org.eclipse.cdt.make.core/specs.o" -c -o ".metadata/.plugins/org.eclipse.cdt.make.core/specs.o" "../.metadata/.plugins/org.eclipse.cdt.make.core/specs.c"
+Finished building: ../.metadata/.plugins/org.eclipse.cdt.make.core/specs.c
+ 
+Building file: ../ADC_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"ADC_Program.d" -MT"ADC_Program.o" -c -o "ADC_Program.o" "../ADC_Program.c"
+Finished building: ../ADC_Program.c
+ 
+Building file: ../APP_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"APP_Program.d" -MT"APP_Program.o" -c -o "APP_Program.o" "../APP_Program.c"
+In file included from ../APP_Program.c:29:
+e:/imt_sdk_win_64 - copy/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../APP_Program.c
+ 
+Building file: ../DIO_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"DIO_Program.d" -MT"DIO_Program.o" -c -o "DIO_Program.o" "../DIO_Program.c"
+Finished building: ../DIO_Program.c
+ 
+Building file: ../EXTI_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"EXTI_Program.d" -MT"EXTI_Program.o" -c -o "EXTI_Program.o" "../EXTI_Program.c"
+Finished building: ../EXTI_Program.c
+ 
+Building file: ../KeyPad_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"KeyPad_Program.d" -MT"KeyPad_Program.o" -c -o "KeyPad_Program.o" "../KeyPad_Program.c"
+In file included from ../KeyPad_Program.c:10:
+e:/imt_sdk_win_64 - copy/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../KeyPad_Program.c
+ 
+Building file: ../LCD_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"LCD_Program.d" -MT"LCD_Program.o" -c -o "LCD_Program.o" "../LCD_Program.c"
+In file included from ../LCD_Program.c:29:
+e:/imt_sdk_win_64 - copy/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../LCD_Program.c
+ 
+Building file: ../Timer1_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"Timer1_Program.d" -MT"Timer1_Program.o" -c -o "Timer1_Program.o" "../Timer1_Program.c"
+Finished building: ../Timer1_Program.c
+ 
+Building file: ../USART_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"USART_Program.d" -MT"USART_Program.o" -c -o "USART_Program.o" "../USART_Program.c"
+Finished building: ../USART_Program.c
+ 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:50:
+e:/imt_sdk_win_64 - copy/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../main.c
+ 
+Building target: Smart_Home1.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Smart_Home1.map -mmcu=atmega32 -o "Smart_Home1.elf"  ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o  ./ADC_Program.o ./APP_Program.o ./DIO_Program.o ./EXTI_Program.o ./KeyPad_Program.o ./LCD_Program.o ./Timer1_Program.o ./USART_Program.o ./main.o   
+Finished building target: Smart_Home1.elf
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex Smart_Home1.elf  "Smart_Home1.hex"
+Finished building: Smart_Home1.hex
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Smart_Home1.elf  >"Smart_Home1.lss"
+Finished building: Smart_Home1.lss
+ 
+Invoking: Print Size
+avr-size --format=berkeley -t Smart_Home1.elf
+   text	   data	    bss	    dec	    hex	filename
+  12346	    288	      2	  12636	   315c	Smart_Home1.elf
+  12346	    288	      2	  12636	   315c	(TOTALS)
+Finished building: sizedummy
+ 
+10:16:04 **** Incremental Build of configuration Debug for project Smart_Home2 ****
+make all 
+Building file: ../ADC_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"ADC_Program.d" -MT"ADC_Program.o" -c -o "ADC_Program.o" "../ADC_Program.c"
+Finished building: ../ADC_Program.c
+ 
+Building file: ../APP_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"APP_Program.d" -MT"APP_Program.o" -c -o "APP_Program.o" "../APP_Program.c"
+In file included from ../APP_Program.c:26:
+e:/imt_sdk_win_64 - copy/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../APP_Program.c
+ 
+Building file: ../DIO_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"DIO_Program.d" -MT"DIO_Program.o" -c -o "DIO_Program.o" "../DIO_Program.c"
+Finished building: ../DIO_Program.c
+ 
+Building file: ../EXTI_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"EXTI_Program.d" -MT"EXTI_Program.o" -c -o "EXTI_Program.o" "../EXTI_Program.c"
+Finished building: ../EXTI_Program.c
+ 
+Building file: ../KeyPad_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"KeyPad_Program.d" -MT"KeyPad_Program.o" -c -o "KeyPad_Program.o" "../KeyPad_Program.c"
+In file included from ../KeyPad_Program.c:10:
+e:/imt_sdk_win_64 - copy/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../KeyPad_Program.c
+ 
+Building file: ../LCD_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"LCD_Program.d" -MT"LCD_Program.o" -c -o "LCD_Program.o" "../LCD_Program.c"
+In file included from ../LCD_Program.c:30:
+e:/imt_sdk_win_64 - copy/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../LCD_Program.c
+ 
+Building file: ../LM35.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"LM35.d" -MT"LM35.o" -c -o "LM35.o" "../LM35.c"
+Finished building: ../LM35.c
+ 
+Building file: ../Timer1_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"Timer1_Program.d" -MT"Timer1_Program.o" -c -o "Timer1_Program.o" "../Timer1_Program.c"
+Finished building: ../Timer1_Program.c
+ 
+Building file: ../USART_Program.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"USART_Program.d" -MT"USART_Program.o" -c -o "USART_Program.o" "../USART_Program.c"
+Finished building: ../USART_Program.c
+ 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:62:
+e:/imt_sdk_win_64 - copy/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: ../main.c
+ 
+Building target: Smart_Home2.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Smart_Home2.map -mmcu=atmega16 -o "Smart_Home2.elf"  ./ADC_Program.o ./APP_Program.o ./DIO_Program.o ./EXTI_Program.o ./KeyPad_Program.o ./LCD_Program.o ./LM35.o ./Timer1_Program.o ./USART_Program.o ./main.o   
+Finished building target: Smart_Home2.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Smart_Home2.elf  >"Smart_Home2.lss"
+Finished building: Smart_Home2.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex Smart_Home2.elf  "Smart_Home2.hex"
+Finished building: Smart_Home2.hex
+ 
+Invoking: Print Size
+avr-size --format=berkeley -t Smart_Home2.elf
+   text	   data	    bss	    dec	    hex	filename
+  15578	    436	      2	  16016	   3e90	Smart_Home2.elf
+  15578	    436	      2	  16016	   3e90	(TOTALS)
+Finished building: sizedummy
+ 
